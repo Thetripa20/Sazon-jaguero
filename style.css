@@ -3,3 +3,24 @@
     height: auto;
     margin: 12px;
 }
+.boton-menú{
+    background-color:black;
+    color: white;
+}
+.boton-menú:hover{
+    background-color: gray;
+    color: white;
+}
+h3{
+    color: gray;
+}
+.p {
+  background-color: green;
+  color: white;
+  border-radius: 9px;
+  width: 160px;
+  height: 40px; 
+  padding: 5px;
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
