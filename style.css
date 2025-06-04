@@ -1,7 +1,7 @@
 .logo{
-    width: 70px;
+    width: 40px;
     height: auto;
-    margin: 12px;
+    margin: 10px;
 }
 .boton-menú{
     background-color:black;
@@ -23,4 +23,12 @@ h3{
   padding: 5px;
   text-align: center;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contacto{
+    width: 30px;
+    height: auto;
+    margin: 12px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 100%;
 }
